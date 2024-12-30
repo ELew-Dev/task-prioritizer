@@ -16,4 +16,4 @@ The **Task Prioritizer App** is a project designed to help users manage and prio
 
 ### 3. Project Structure
 Set up the following folder structure to organize the project:
-project/ ├── frontend/ │ ├── static/ # CSS, JS, and other static files │ ├── templates/ # HTML templates ├── backend/ │ ├── app.py # Flask application file ├── venv/ # Virtual environment
+ taskprioritizer/ ├── frontend/ │ ├── static/ # CSS, JS, and other static files │ ├── templates/ # HTML templates ├── backend/ │ ├── app.py # Flask application file ├── venv/ # Virtual environment
